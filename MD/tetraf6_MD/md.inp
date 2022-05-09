@@ -1,0 +1,10 @@
+
+$md
+   time=10.0	#ps
+   step=2.0	#fs
+   temp=300.0	#K
+   hmass=4.0
+   shake=0
+$end
+
+
